@@ -22,7 +22,7 @@ The proposed framework outperforms existing approaches in precision, recall, and
 
 ### 🛠 **Usage**  
 1. Clone the repository and install dependencies.
-2. Set your dataset path: Simply replace the default dataset path in the provided configuration files/scripts with your own Raabin-WBC dataset path.
+2. Set your dataset path: Simply replace the default dataset path in the provided configuration files/scripts with your own dataset path.
 3. Run the preprocessing, augmentation, and training scripts — the pipeline handles the rest!
 
 ### 🤝 **Contributions**  
