@@ -1,5 +1,3 @@
-# WBC-Convnextv2Swin-R3GAN-ECCGAN
-**GitHub Repository Description:**  
 
 **Advancing White Blood Cell Classification: A Hybrid Deep Learning Approach with GAN-Based Data Balancing**  
 
